@@ -5,4 +5,3 @@ O projeto foi feita com base da Alura, onde o professor Guilherme Lima nos guia 
 - Operadores Aritméticos (+, -, *, /);
 - Operadores Relacionais (=-, =+, <, > etc);
 - Function.
-
